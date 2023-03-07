@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sohail099
 - 👀 I’m interested in Web and Mobile App Development specially Backend
-- 🌱 I’m currently Software Developer at Quantiphi and a Part time freelancer
 - 💞️ I’m looking to collaborate on NodeJS projects
 - 📫 How to reach me sohailalimalik18@gmail.com
 
